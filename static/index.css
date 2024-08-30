@@ -1,0 +1,13 @@
+title{
+font-family: 'Times New Roman', Times, serif;
+font: bold;
+}
+title:hover {
+    background-color: rgb(47, 255, 0);
+}
+body{
+    background: aqua;
+}
+.form1{
+    color:blue;
+}
